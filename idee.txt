@@ -1,0 +1,20 @@
+
+
+thumb-key
+
+https://github.com/dessalines/thumb-key
+
+interesante keyboard voor je android
+hebben helaas geen website die het laat zien hoe het werkt, etc etc.
+een website die (visueel) laat zien hoe het werkt.
+
+Homepagina 46
+vervolgpagina 6
+contactpagina 1
+
+black black #000
+base color #20221f  (black)
+base color hide letters #212121
+light green #b8cab3
+bright green #8cd78b
+side buttons green #444a42
